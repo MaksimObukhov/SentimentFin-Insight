@@ -1,0 +1,7 @@
+Cannot upload model weights, as the file is 200 MB
+
+Source: https://huggingface.co/datasets/financial_phrasebank
+
+Data Fields:
+sentence: a tokenized line from the dataset
+label: a label corresponding to the class as a string: 'positive', 'negative' or 'neutral'
